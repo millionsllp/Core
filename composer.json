@@ -1,0 +1,15 @@
+{
+    "name": "millionsllp/core",
+    "description": "Core module for ms-frame",
+    "type": "module",
+    "require": {
+       
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Million Solutions LLP",
+            "email": "dev@millionsllp.com"
+        }
+    ]
+}
