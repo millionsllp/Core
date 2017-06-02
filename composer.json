@@ -18,7 +18,7 @@
             
         ],
         "psr-4": {
-            "MS\\": "src/Master/"
+            "MS\\": "Master/"
         }
     },
     "minimum-stability": "dev"
