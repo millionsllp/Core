@@ -2,6 +2,7 @@
     "name": "millionsllp/core",
     "description": "Core module for ms-frame",
     "type": "module",
+    "homepage": "http://millionsllp.com",
     "require": {
        
     },
@@ -11,5 +12,14 @@
             "name": "Million Solutions LLP",
             "email": "dev@millionsllp.com"
         }
-    ]
+    ],
+    "autoload": {
+        "files": [
+            
+        ],
+        "psr-4": {
+            "MS\\": "src/Master/"
+        }
+    },
+    "minimum-stability": "dev"
 }
